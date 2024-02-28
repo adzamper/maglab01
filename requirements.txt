@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+ipywidgets
+simPEG
+discretize
+properties
+dask
+pandas
